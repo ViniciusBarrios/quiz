@@ -1,0 +1,27 @@
+{
+  "title": "Quiz - Fábrica de Riqueza",
+  "redirect": "https://go.hotmart.com/Y74069725K",
+  "questions": [
+    {
+      "question": "Você realmente quer descobrir esse método?",
+      "answerOptions": [
+        { "answer": "Sim", "isCorrect": true },
+        { "answer": "Não" }
+      ]
+    },
+    {
+      "question": "Você promete não revelar com ninguém, pelomenos não agora?",
+      "answerOptions": [
+        { "answer": "Sim", "isCorrect": true },
+        { "answer": "Não" }
+      ]
+    },
+    {
+      "question": "O vídeo a seguir tem um limite para pouquíssimas pessoas verem ao mesmo tempo... Você pretende ver até o fim?",
+      "answerOptions": [
+        { "answer": "Sim", "isCorrect": true },
+        { "answer": "Não" }
+      ]
+    }
+  ]
+}
